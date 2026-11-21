@@ -1,16 +1,49 @@
 {
-  "server": { "name": "주영서버", "host": "161.33.209.62", "port": 25565 },
-  "minecraft": { "version": "26.3", "loader": "fabric", "loaderVersion": "" },
-  "mods": [
-    { "modrinth": "fabric-api" },
-    { "modrinth": "sodium" },
-    { "modrinth": "lithium" },
-    { "modrinth": "ferrite-core" },
-    { "modrinth": "entityculling" },
-    { "modrinth": "immediatelyfast" },
-    { "modrinth": "dynamic-fps" },
-    { "modrinth": "journeymap" },
-    { "modrinth": "farmers-delight-refabricated" },
-    { "modrinth": "cultural-delights" }
-  ]
+    "server":  {
+                   "name":  "주영서버",
+                   "host":  "161.33.209.62",
+                   "port":  25565
+               },
+    "minecraft":  {
+                      "version":  "26.3",
+                      "loader":  "fabric",
+                      "loaderVersion":  ""
+                  },
+    "mods":  [
+                 {
+                     "modrinth":  "fabric-api"
+                 },
+                 {
+                     "modrinth":  "sodium"
+                 },
+                 {
+                     "modrinth":  "lithium"
+                 },
+                 {
+                     "modrinth":  "ferrite-core"
+                 },
+                 {
+                     "modrinth":  "entityculling"
+                 },
+                 {
+                     "modrinth":  "immediatelyfast"
+                 },
+                 {
+                     "modrinth":  "dynamic-fps"
+                 },
+                 {
+                     "modrinth":  "journeymap"
+                 },
+                 {
+                     "modrinth":  "farmers-delight-refabricated"
+                 },
+                 {
+                     "modrinth":  "cultural-delights"
+                 },
+                 {
+                     "url":  "https://github.com/chlwndud0122/jooyoung-dist/releases/download/rpg-0.1.0-20261122-0301/jooyoungrpg.jar",
+                     "file":  "jooyoungrpg.jar",
+                     "sha1":  "c8d278131a32cbf024b76a2eb3b2e6099458c0f8"
+                 }
+             ]
 }
