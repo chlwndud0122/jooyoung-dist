@@ -41,9 +41,9 @@
                      "modrinth":  "cultural-delights"
                  },
                  {
-                     "url":  "https://github.com/chlwndud0122/jooyoung-dist/releases/download/rpg-0.1.0-20261122-0301/jooyoungrpg.jar",
+                     "url":  "https://github.com/chlwndud0122/jooyoung-dist/releases/download/rpg-0.2.0-20261122-0351/jooyoungrpg.jar",
                      "file":  "jooyoungrpg.jar",
-                     "sha1":  "c8d278131a32cbf024b76a2eb3b2e6099458c0f8"
+                     "sha1":  "d190ecf51f688b8acdb23a630b5fe050fecc453e"
                  }
              ]
 }
