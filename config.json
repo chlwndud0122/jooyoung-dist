@@ -9,8 +9,7 @@
     { "modrinth": "entityculling" },
     { "modrinth": "immediatelyfast" },
     { "modrinth": "dynamic-fps" },
-    { "modrinth": "xaeros-minimap" },
-    { "modrinth": "xaeros-world-map" },
+    { "modrinth": "journeymap" },
     { "modrinth": "farmers-delight-refabricated" },
     { "modrinth": "cultural-delights" }
   ]
