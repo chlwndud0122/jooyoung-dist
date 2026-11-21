@@ -1,0 +1,15 @@
+{
+  "server": { "name": "주영서버", "host": "localhost", "port": 25565 },
+  "minecraft": { "version": "26.3", "loader": "fabric", "loaderVersion": "" },
+  "mods": [
+    { "modrinth": "fabric-api" },
+    { "modrinth": "sodium" },
+    { "modrinth": "lithium" },
+    { "modrinth": "ferrite-core" },
+    { "modrinth": "entityculling" },
+    { "modrinth": "immediatelyfast" },
+    { "modrinth": "dynamic-fps" },
+    { "modrinth": "farmers-delight-refabricated" },
+    { "modrinth": "cultural-delights" }
+  ]
+}
