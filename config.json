@@ -23,10 +23,35 @@
     {
       "id": "hardcore",
       "name": "하드코어",
-      "desc": "한 번 죽으면 끝",
-      "tagline": "하드코어 · 한 번 죽으면 끝",
-      "host": "",
-      "danger": true
+      "desc": "누가 죽으면 월드 초기화",
+      "tagline": "하드코어 · 누가 죽으면 월드 초기화",
+      "host": "161.33.209.62",
+      "danger": true,
+      "port": 25566,
+      "mods": [
+        {
+          "modrinth": "fabric-api"
+        },
+        {
+          "modrinth": "sodium"
+        },
+        {
+          "modrinth": "lithium"
+        },
+        {
+          "modrinth": "ferrite-core"
+        },
+        {
+          "modrinth": "entityculling"
+        },
+        {
+          "modrinth": "immediatelyfast"
+        },
+        {
+          "modrinth": "dynamic-fps"
+        }
+      ],
+      "resourcepacks": []
     }
   ],
   "minecraft": {
@@ -86,6 +111,12 @@
     }
   ],
   "news": [
+    {
+      "tag": "update",
+      "title": "하드코어 서버 오픈",
+      "body": "누구 한 명이라도 죽으면 월드를 통째로 새로 만들어요. 최적화 모드만 쓰는 바닐라 서버예요. 런처 0.2.1부터 모드가 자동으로 바뀌어요.",
+      "date": "2026-11-24"
+    },
     {
       "tag": "update",
       "title": "런처 0.2.0",
