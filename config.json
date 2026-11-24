@@ -154,5 +154,9 @@
       "body": "작물·광물 팔기, 꾸미기 블록 사기",
       "date": "예정"
     }
-  ]
+  ],
+  "launcher": {
+    "version": "0.2.3",
+    "url": "https://github.com/chlwndud0122/jooyoung-dist/releases/download/v0.2.3/jooyoung-launcher-setup-0.2.3.exe"
+  }
 }
