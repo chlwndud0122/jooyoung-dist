@@ -61,9 +61,7 @@
         {
           "modrinth": "fresh-animations"
         },
-        {
-          "modrinth": "fa-player-extension"
-        }
+        { "modrinth": "fa-player-extension", "version": "1.0.0" }
       ]
     }
   ],
@@ -119,9 +117,7 @@
     {
       "modrinth": "fresh-animations"
     },
-    {
-      "modrinth": "fa-player-extension"
-    }
+    { "modrinth": "fa-player-extension", "version": "1.0.0" }
   ],
   "news": [
     {
