@@ -34,7 +34,11 @@
           "modrinth": "fabric-api"
         },
         {
-          "modrinth": "sodium"
+          "modrinth": "sodium",
+          "version": "mc26.3-0.9.2-fabric"
+        },
+        {
+          "modrinth": "iris"
         },
         {
           "modrinth": "lithium"
@@ -62,7 +66,9 @@
         {
           "modrinth": "fresh-animations"
         },
-        { "modrinth": "fa-player-extension" }
+        {
+          "modrinth": "fa-player-extension"
+        }
       ]
     }
   ],
@@ -76,7 +82,11 @@
       "modrinth": "fabric-api"
     },
     {
-      "modrinth": "sodium"
+      "modrinth": "sodium",
+      "version": "mc26.3-0.9.2-fabric"
+    },
+    {
+      "modrinth": "iris"
     },
     {
       "modrinth": "lithium"
@@ -118,7 +128,9 @@
     {
       "modrinth": "fresh-animations"
     },
-    { "modrinth": "fa-player-extension" }
+    {
+      "modrinth": "fa-player-extension"
+    }
   ],
   "news": [
     {
@@ -153,7 +165,15 @@
     }
   ],
   "launcher": {
-    "version": "0.2.10",
-    "url": "https://github.com/chlwndud0122/jooyoung-dist/releases/download/v0.2.10/jooyoung-launcher-setup-0.2.10.exe"
-  }
+    "version": "0.2.11",
+    "url": "https://github.com/chlwndud0122/jooyoung-dist/releases/download/v0.2.11/jooyoung-launcher-setup-0.2.11.exe"
+  },
+  "shaderpacks": [
+    {
+      "modrinth": "complementary-reimagined"
+    },
+    {
+      "modrinth": "complementary-unbound"
+    }
+  ]
 }
