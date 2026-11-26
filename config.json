@@ -1,179 +1,179 @@
 {
-  "server": {
-    "name": "주영서버",
-    "host": "161.33.209.62",
-    "port": 25565
-  },
-  "servers": [
-    {
-      "id": "main",
-      "name": "본섭",
-      "desc": "RPG 메인 서버",
-      "tagline": "농사 · 광질 · 강화 · 보스",
-      "host": "161.33.209.62",
-      "port": 25565
-    },
-    {
-      "id": "test",
-      "name": "테섭",
-      "desc": "새 기능 미리 해 보기",
-      "tagline": "새 기능 미리 해 보기",
-      "host": "161.33.209.62",
-      "port": 25567
-    },
-    {
-      "id": "hardcore",
-      "name": "하드코어",
-      "desc": "누가 죽으면 월드 초기화",
-      "tagline": "하드코어 · 누가 죽으면 월드 초기화",
-      "host": "161.33.209.62",
-      "danger": true,
-      "port": 25566,
-      "mods": [
-        {
-          "modrinth": "fabric-api"
-        },
-        {
-          "modrinth": "sodium",
-          "version": "mc26.3-0.9.2-fabric"
-        },
-        {
-          "modrinth": "iris"
-        },
-        {
-          "modrinth": "lithium"
-        },
-        {
-          "modrinth": "ferrite-core"
-        },
-        {
-          "modrinth": "entityculling"
-        },
-        {
-          "modrinth": "immediatelyfast"
-        },
-        {
-          "modrinth": "dynamic-fps"
-        },
-        {
-          "modrinth": "entity-model-features"
-        },
-        {
-          "modrinth": "entitytexturefeatures"
-        }
-      ],
-      "resourcepacks": [
-        {
-          "modrinth": "fresh-animations"
-        },
-        {
-          "modrinth": "fa-player-extension"
-        }
-      ]
-    }
-  ],
-  "minecraft": {
-    "version": "26.3",
-    "loader": "fabric",
-    "loaderVersion": ""
-  },
-  "mods": [
-    {
-      "modrinth": "fabric-api"
-    },
-    {
-      "modrinth": "sodium",
-      "version": "mc26.3-0.9.2-fabric"
-    },
-    {
-      "modrinth": "iris"
-    },
-    {
-      "modrinth": "lithium"
-    },
-    {
-      "modrinth": "ferrite-core"
-    },
-    {
-      "modrinth": "entityculling"
-    },
-    {
-      "modrinth": "immediatelyfast"
-    },
-    {
-      "modrinth": "dynamic-fps"
-    },
-    {
-      "modrinth": "journeymap"
-    },
-    {
-      "modrinth": "entity-model-features"
-    },
-    {
-      "modrinth": "entitytexturefeatures"
-    },
-    {
-      "modrinth": "farmers-delight-refabricated"
-    },
-    {
-      "modrinth": "cultural-delights"
-    },
-    {
-      "url": "https://github.com/chlwndud0122/jooyoung-dist/releases/download/rpg-0.2.1-20261122-2252/jooyoungrpg.jar",
-      "file": "jooyoungrpg.jar",
-      "sha1": "9daa654cd62a9e6bc5c981d99e5cf29e3fdd2aa3"
-    }
-  ],
-  "resourcepacks": [
-    {
-      "modrinth": "fresh-animations"
-    },
-    {
-      "modrinth": "fa-player-extension"
-    }
-  ],
-  "news": [
-    {
-      "tag": "update",
-      "title": "하드코어 서버 오픈",
-      "body": "누구 한 명이라도 죽으면 월드를 통째로 새로 만들어요. 최적화·모션 모드만 쓰는 바닐라 서버예요. 런처 0.2.1부터 모드가 자동으로 바뀌어요.",
-      "date": "2026-11-24"
-    },
-    {
-      "tag": "update",
-      "title": "런처 0.2.0",
-      "body": "새 화면, 서버 고르기, 몹·캐릭터 움직임(Fresh Animations) 자동 적용",
-      "date": "11.23"
-    },
-    {
-      "tag": "update",
-      "title": "0.2.1 새 HUD",
-      "body": "왼쪽 위 정보 띠, 새 동전 아이콘, Pretendard 글꼴",
-      "date": "11.23"
-    },
-    {
-      "tag": "notice",
-      "title": "골드 시스템 오픈",
-      "body": "몹을 잡으면 동화·은화·금화. 우클릭으로 입금",
-      "date": "11.22"
-    },
-    {
-      "tag": "soon",
-      "title": "중앙 도시와 상점",
-      "body": "작물·광물 팔기, 꾸미기 블록 사기",
-      "date": "예정"
-    }
-  ],
-  "launcher": {
-    "version": "0.2.11",
-    "url": "https://github.com/chlwndud0122/jooyoung-dist/releases/download/v0.2.11/jooyoung-launcher-setup-0.2.11.exe"
-  },
-  "shaderpacks": [
-    {
-      "modrinth": "complementary-reimagined"
-    },
-    {
-      "modrinth": "complementary-unbound"
-    }
-  ]
+    "server":  {
+                   "name":  "주영서버",
+                   "host":  "161.33.209.62",
+                   "port":  25565
+               },
+    "servers":  [
+                    {
+                        "id":  "main",
+                        "name":  "본섭",
+                        "desc":  "RPG 메인 서버",
+                        "tagline":  "농사 · 광질 · 강화 · 보스",
+                        "host":  "161.33.209.62",
+                        "port":  25565
+                    },
+                    {
+                        "id":  "test",
+                        "name":  "테섭",
+                        "desc":  "새 기능 미리 해 보기",
+                        "tagline":  "새 기능 미리 해 보기",
+                        "host":  "161.33.209.62",
+                        "port":  25567
+                    },
+                    {
+                        "id":  "hardcore",
+                        "name":  "하드코어",
+                        "desc":  "누가 죽으면 월드 초기화",
+                        "tagline":  "하드코어 · 누가 죽으면 월드 초기화",
+                        "host":  "161.33.209.62",
+                        "danger":  true,
+                        "port":  25566,
+                        "mods":  [
+                                     {
+                                         "modrinth":  "fabric-api"
+                                     },
+                                     {
+                                         "modrinth":  "sodium",
+                                         "version":  "mc26.3-0.9.2-fabric"
+                                     },
+                                     {
+                                         "modrinth":  "iris"
+                                     },
+                                     {
+                                         "modrinth":  "lithium"
+                                     },
+                                     {
+                                         "modrinth":  "ferrite-core"
+                                     },
+                                     {
+                                         "modrinth":  "entityculling"
+                                     },
+                                     {
+                                         "modrinth":  "immediatelyfast"
+                                     },
+                                     {
+                                         "modrinth":  "dynamic-fps"
+                                     },
+                                     {
+                                         "modrinth":  "entity-model-features"
+                                     },
+                                     {
+                                         "modrinth":  "entitytexturefeatures"
+                                     }
+                                 ],
+                        "resourcepacks":  [
+                                              {
+                                                  "modrinth":  "fresh-animations"
+                                              },
+                                              {
+                                                  "modrinth":  "fa-player-extension"
+                                              }
+                                          ]
+                    }
+                ],
+    "minecraft":  {
+                      "version":  "26.3",
+                      "loader":  "fabric",
+                      "loaderVersion":  ""
+                  },
+    "mods":  [
+                 {
+                     "modrinth":  "fabric-api"
+                 },
+                 {
+                     "modrinth":  "sodium",
+                     "version":  "mc26.3-0.9.2-fabric"
+                 },
+                 {
+                     "modrinth":  "iris"
+                 },
+                 {
+                     "modrinth":  "lithium"
+                 },
+                 {
+                     "modrinth":  "ferrite-core"
+                 },
+                 {
+                     "modrinth":  "entityculling"
+                 },
+                 {
+                     "modrinth":  "immediatelyfast"
+                 },
+                 {
+                     "modrinth":  "dynamic-fps"
+                 },
+                 {
+                     "modrinth":  "journeymap"
+                 },
+                 {
+                     "modrinth":  "entity-model-features"
+                 },
+                 {
+                     "modrinth":  "entitytexturefeatures"
+                 },
+                 {
+                     "modrinth":  "farmers-delight-refabricated"
+                 },
+                 {
+                     "modrinth":  "cultural-delights"
+                 },
+                 {
+                     "url":  "https://github.com/chlwndud0122/jooyoung-dist/releases/download/rpg-0.2.1-20261127-0128/jooyoungrpg.jar",
+                     "file":  "jooyoungrpg.jar",
+                     "sha1":  "2951dc1ca8d092bdfaf76b86ad5ecf3bd2f77e85"
+                 }
+             ],
+    "resourcepacks":  [
+                          {
+                              "modrinth":  "fresh-animations"
+                          },
+                          {
+                              "modrinth":  "fa-player-extension"
+                          }
+                      ],
+    "news":  [
+                 {
+                     "tag":  "update",
+                     "title":  "하드코어 서버 오픈",
+                     "body":  "누구 한 명이라도 죽으면 월드를 통째로 새로 만들어요. 최적화·모션 모드만 쓰는 바닐라 서버예요. 런처 0.2.1부터 모드가 자동으로 바뀌어요.",
+                     "date":  "2026-11-24"
+                 },
+                 {
+                     "tag":  "update",
+                     "title":  "런처 0.2.0",
+                     "body":  "새 화면, 서버 고르기, 몹·캐릭터 움직임(Fresh Animations) 자동 적용",
+                     "date":  "11.23"
+                 },
+                 {
+                     "tag":  "update",
+                     "title":  "0.2.1 새 HUD",
+                     "body":  "왼쪽 위 정보 띠, 새 동전 아이콘, Pretendard 글꼴",
+                     "date":  "11.23"
+                 },
+                 {
+                     "tag":  "notice",
+                     "title":  "골드 시스템 오픈",
+                     "body":  "몹을 잡으면 동화·은화·금화. 우클릭으로 입금",
+                     "date":  "11.22"
+                 },
+                 {
+                     "tag":  "soon",
+                     "title":  "중앙 도시와 상점",
+                     "body":  "작물·광물 팔기, 꾸미기 블록 사기",
+                     "date":  "예정"
+                 }
+             ],
+    "launcher":  {
+                     "version":  "0.2.11",
+                     "url":  "https://github.com/chlwndud0122/jooyoung-dist/releases/download/v0.2.11/jooyoung-launcher-setup-0.2.11.exe"
+                 },
+    "shaderpacks":  [
+                        {
+                            "modrinth":  "complementary-reimagined"
+                        },
+                        {
+                            "modrinth":  "complementary-unbound"
+                        }
+                    ]
 }
